@@ -1,5 +1,4 @@
 from flask import Flask, redirect, url_for, request
-from messages import text
 
 app = Flask(__name__)
 
