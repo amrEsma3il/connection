@@ -18,4 +18,4 @@ def login():
       user2=request.values
       return user
 if __name__ == '__main__':
-   app.run(debug = True,port='5005',host='0000')
+   app.run(debug = True)
