@@ -1,7 +1,6 @@
 gunicorn
 numpy
 pandas
-string
 nltk
 flask
 joblib
